@@ -44,7 +44,7 @@ img{max-width:100%;}
     margin:10px 0 42px;
 }
 #home{
-    background-image: url("/images/main-bg.jpg"),linear-gradient(#c9ffbf,#ffafbd);
+    background-image: url("../images/main-bg.jpg"),linear-gradient(#c9ffbf,#ffafbd);
     min-height:100vh;
     background-blend-mode:luminosity;
 }
@@ -57,7 +57,7 @@ img{max-width:100%;}
     font-family:'Philosopher',serif;
     font-size:5rem;
     font-weight:normal;
-    font-transform:uppercase;
+    text-transform:uppercase;
 
 }
 main p{
@@ -79,7 +79,7 @@ main p{
 /*NEWS
 ----------------------------------*/
 #news{
-    background-image: url("/images/news-bg.jpg");
+    background-image: url("../images/news-bg.jpg");
     height:270px;
     margin-bottom:40px;
 }
@@ -186,7 +186,7 @@ footer p{
 /*Menu
 ----------------------------------*/
 #menu{
-    background-image:url(/images/menu-bg.jpg);
+    background-image:url("../images/menu-bg.jpg");
     min-height:100vh;
 }
 .menu-content{
@@ -224,7 +224,7 @@ footer p{
 /*Contact
 ----------------------------------*/
 #contact{
-    background-image:url(/images/contact-bg.jpg);
+    background-image:url("../images/contact-bg.jpg");
     min-height:100vh;
 }
 form div{
