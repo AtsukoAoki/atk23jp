@@ -44,7 +44,7 @@ img{max-width:100%;}
     margin:10px 0 42px;
 }
 #home{
-    background-image: url("../images/main-bg.jpg"),linear-gradient(#c9ffbf,#ffafbd);
+    background-image: url("../images/23845576_m.jpg");
     min-height:100vh;
     background-blend-mode:luminosity;
 }
@@ -186,7 +186,7 @@ footer p{
 /*Menu
 ----------------------------------*/
 #menu{
-    background-image:url("../images/menu-bg.jpg");
+    background-image:url("../images/23845576_m.jpg");
     min-height:100vh;
 }
 .menu-content{
@@ -220,6 +220,7 @@ footer p{
     object-fit:cover;
 
 }
+.item p{font-size:0.75rem;}
 
 /*Contact
 ----------------------------------*/
