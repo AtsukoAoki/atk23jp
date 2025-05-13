@@ -25,6 +25,7 @@ img{max-width:100%;}
 .main-nav{
     display:flex;
     font-size:1.25rem;
+    color:#fff;
     list-style:none;
     margin-top:34px;
 }
@@ -58,7 +59,7 @@ img{max-width:100%;}
     font-size:5rem;
     font-weight:normal;
     text-transform:uppercase;
-
+    color:#fff;
 }
 main p{
     font-size:1.125rem;
