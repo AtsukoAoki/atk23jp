@@ -45,7 +45,7 @@ img{max-width:100%;}
     margin:20px 0 42px;
 }
 #home{
-    background-image: url("../images/23845576_m.jpg"),linear-gradient(#000,#fff);
+    background-image: url("../images/23845576_m.jpg"),linear-gradient(#754f29,#fff);
     min-height:100vh;
     background-blend-mode:multiply;
 }
@@ -90,6 +90,7 @@ main p{
     display:flex;
     justify-content:space-between;
     margin-bottom:50px;
+    color:#432;
 }
 /*article
 ----------*/
@@ -146,6 +147,7 @@ aside{
     padding:0 8px 8px;
     border-bottom:2px #0bd solid;
     font-weight:normal;
+    color:#0bd;
 }
 aside p{
     padding: 12px 10px;
@@ -198,7 +200,6 @@ footer p{
 .menu-content p{
     font-size:1.125rem;
     margin:10px 0 0;
-    color:#432;
 }
 
 .grid{
@@ -218,12 +219,14 @@ footer p{
     object-fit:cover;
 
 }
-.item p{font-size:0.75rem;}
+.item p{
+    font-size:0.75rem;
+    color:#432;}
 
 /*Contact
 ----------------------------------*/
 #contact{
-    background-image:url("../images/24235184_m.jpg"),linear-gradient(#000,#fff);
+    background-image:url("../images/24235184_m.jpg"),linear-gradient(#754f29,#fff);
     background-blend-mode:multiply;
     min-height:100vh;
 }
