@@ -42,12 +42,12 @@ img{max-width:100%;}
 }
 .home-content p{
     font-size:1.125rem;
-    margin:10px 0 42px;
+    margin:20px 0 42px;
 }
 #home{
     background-image: url("../images/23845576_m.jpg"),linear-gradient(#000,#fff);
     min-height:100vh;
-    background-blend-mode:luminosity;
+    background-blend-mode:multiply;
 }
 .big-bg{
     background-size: cover;
@@ -65,10 +65,11 @@ main p{
     margin:10px 0 42px;
 }
 .btn{
-    font-size:1.375rem;
+    font-size:1rem;
     background:#0bd;
     border-radius:5px;
     padding:18px 32px;
+    color:#fff;
 }
 .btn:hover{
     background:#0090aa;
@@ -197,6 +198,7 @@ footer p{
 .menu-content p{
     font-size:1.125rem;
     margin:10px 0 0;
+    color:#432;
 }
 
 .grid{
@@ -222,6 +224,7 @@ footer p{
 ----------------------------------*/
 #contact{
     background-image:url("../images/24235184_m.jpg"),linear-gradient(#000,#fff);
+    background-blend-mode:multiply;
     min-height:100vh;
 }
 form div{
@@ -255,6 +258,9 @@ input[type="submit"]{
     border:none;
     cursor:pointer;
     line-height:1;
+}
+.location-info{
+    color:#432;
 }
 /*GoogleMAP
 ----------------------------------*/
