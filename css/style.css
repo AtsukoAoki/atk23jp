@@ -25,12 +25,12 @@ img{max-width:100%;}
 .main-nav{
     display:flex;
     font-size:1.25rem;
-    color:#fff;
     list-style:none;
     margin-top:34px;
 }
 .main-nav li{
     margin-left:36px;
+    color:#fff;
 }
 .main-nav a{color:#432;}
 .main-nav a hover{
@@ -43,6 +43,7 @@ img{max-width:100%;}
 .home-content p{
     font-size:1.125rem;
     margin:10px 0 42px;
+    color:#fff;
 }
 #home{
     background-image: url("../images/23845576_m.jpg"),linear-gradient(#fff,#000);
@@ -71,7 +72,6 @@ main p{
     color:#fff;
     border-radius:5px;
     padding:18px 32px;
-
 }
 .btn:hover{
     background:#0090aa;
@@ -226,7 +226,7 @@ footer p{
 /*Contact
 ----------------------------------*/
 #contact{
-    background-image:url("../images/24235184_m.jpg");
+    background-image:url("../images/24235184_m.jpg"),linear-gradient(#fff,#000);
     min-height:100vh;
 }
 form div{
