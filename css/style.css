@@ -44,7 +44,7 @@ img{max-width:100%;}
     margin:10px 0 42px;
 }
 #home{
-    background-image: url("../images/23845576_m.jpg");
+    background-image: url("../images/23845576_m.jpg"),linear-gradient(#fff,#000);
     min-height:100vh;
     background-blend-mode:luminosity;
 }
