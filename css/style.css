@@ -227,7 +227,7 @@ footer p{
 /*Contact
 ----------------------------------*/
 #contact{
-    background-image:url("../images/24235184_m.jpg"),linear-gradient(#754f29,#fff);
+    background-image:url("../images/24235184_m.jpg"),linear-gradient(#43b0a0,#fff);
     background-blend-mode:multiply;
     min-height:100vh;
 }
