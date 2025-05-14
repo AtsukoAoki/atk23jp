@@ -66,13 +66,13 @@ main p{
 }
 .btn{
     font-size:1rem;
-    background:#0bd;
+    background:#F990B5;
     border-radius:5px;
     padding:18px 32px;
     color:#fff;
 }
 .btn:hover{
-    background:#0090aa;
+    background:#D47798;
 }
 
 /*NEWS
@@ -168,9 +168,7 @@ aside p{
 .sub-menu a:hover{
     color:#0bd;
 }
-.ad{
-    order:1;
-}
+
 /*FOOTER
 ----------------------------------*/
 footer{
