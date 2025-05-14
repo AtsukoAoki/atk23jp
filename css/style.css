@@ -81,6 +81,7 @@ main p{
     background-image: url("../images/30062576_m.png"),linear-gradient(#754f29,#fff);
     height:270px;
     margin-bottom:40px;
+    background-blend-mode:multiply;
 }
 .page-title{
     text-align:center;
@@ -99,7 +100,7 @@ article{
 }
 article img{
     margin-bottom:20px;
-    text-align:center;
+    margin-left:120px;
 }
 article p{
     margin-bottom:1rem;
