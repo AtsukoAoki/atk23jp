@@ -55,10 +55,11 @@ img{max-width:100%;}
 
 }
 .page-title{
-    font-family: "Courgette", cursive;
+    font-family: "Zeyada", cursive;
     font-size:5rem;
     font-weight:normal;
     text-transform:uppercase;
+    text-align:center;
 }
 main p{
     font-size:1.125rem;
@@ -82,9 +83,6 @@ main p{
     height:270px;
     margin-bottom:40px;
     background-blend-mode:multiply;
-}
-.page-title{
-    text-align:center;
 }
 
 .news-contents{
