@@ -80,7 +80,7 @@ main p{
 ----------------------------------*/
 #news{
     background-image: url("../images/30062576_m.png"),linear-gradient(#754f29,#fff);
-    height:270px;
+    height:400px;
     margin-bottom:40px;
     background-blend-mode:multiply;
 }
@@ -183,7 +183,7 @@ footer p{
 ----------------------------------*/
 #menu{
     background-image:url("../images/24747804_l.jpg");
-    min-height:100vh;
+    min-height:70vh;
 }
 .menu-content{
     max-width:560px;
@@ -225,7 +225,7 @@ footer p{
 #contact{
     background-image:url("../images/24235184_m.jpg"),linear-gradient(#43b0a0,#fff);
     background-blend-mode:multiply;
-    min-height:100vh;
+    min-height:70vh;
 }
 form div{
     margin-bottom:14px;
